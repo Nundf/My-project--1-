@@ -1,0 +1,9 @@
+[
+  {
+    "frame": 0,
+    "objects": [
+      {
+        "class": "car",
+        "confidence": 0.8845,
+        "bbox": [
+          

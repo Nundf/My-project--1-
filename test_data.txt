@@ -1,0 +1,18 @@
+car:
+Coordinates: (842, 681, 1180, 894)
+Coordinates: (254, 849, 524, 971)
+Coordinates: (49, 620, 425, 857)
+stop sign:
+Coordinates: (407, 560, 470, 626)
+Coordinates: (267, 494, 341, 557)
+traffic light:
+Coordinates: (334, 157, 451, 426)
+Coordinates: (938, 97, 1031, 312)
+Coordinates: (86, 481, 130, 602)
+person:
+Coordinates: (578, 711, 710, 990)
+Coordinates: (715, 723, 750, 798)
+Coordinates: (715, 852, 864, 976)
+Coordinates: (241, 897, 385, 1012)
+truck:
+Coordinates: (52, 620, 425, 859)

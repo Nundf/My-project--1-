@@ -1,0 +1,7 @@
+train: C:/Users/aleks/My project (1)/Assets/YoloDataset/images/train
+val: C:/Users/aleks/My project (1)/Assets/YoloDataset/images/val
+test: C:/Users/aleks/My project (1)/Assets/YoloDataset/images/test
+
+names:
+  0: car
+

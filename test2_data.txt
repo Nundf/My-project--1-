@@ -1,0 +1,4 @@
+sports ball:
+Coordinates: (325, 53, 391, 117)
+Coordinates: (52, 57, 103, 105)
+Coordinates: (163, 48, 247, 132)
