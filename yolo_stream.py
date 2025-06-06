@@ -29,13 +29,13 @@ def connect_ws_status(max_retries=20, delay=1):
     for attempt in range(max_retries):
         try:
             ws_status.connect("ws://localhost:8080/CarStatus")
-            print("✅ Успешное подключение к CarStatus")
+            print("✅ Успешное подключение к Unity")
             return
         except Exception as e:
-            print(f"[{attempt+1}/{max_retries}] Ожидание подключения к CarStatus...")
+            print(f"[{attempt+1}/{max_retries}] Ожидание подключения к Unity...")
             time.sleep(delay)
 
-    print("❌ Не удалось подключиться к CarStatus после нескольких попыток.")
+    print("❌ Не удалось подключиться к Unity после нескольких попыток.")
 
 def pause_game(pause: bool):
     try:
